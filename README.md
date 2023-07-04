@@ -2,7 +2,7 @@
 
 clone the repository 
 ```bash
-git clone https://github.com/midhun-27/hostel-backend
+git clone https://github.com/femidha/hostel-backend
 ```
 change the directory
 ```bash
